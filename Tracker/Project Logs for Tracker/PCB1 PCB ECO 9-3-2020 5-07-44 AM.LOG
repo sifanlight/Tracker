@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Battery Input NewDesignator=Battery 
+Change Component Designator: OldDesignator=Car Input NewDesignator=Car
+Added Member To Class: ClassName=Sheet1 Member=Component GPS_Connector Component_1
+Added Room: Name=Sheet1

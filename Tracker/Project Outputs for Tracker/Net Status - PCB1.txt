@@ -1,0 +1,42 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\Tracker\PCB1.PcbDoc
+Date         : 9/3/2020
+Time         : 1:59:40 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 0mm
+    GPS_RF, Signal Layers Only, 28.9mm
+    GSM_RF, Signal Layers Only, 15.8501mm
+    INT, Signal Layers Only, 45.6895mm
+    IO29, Signal Layers Only, 77.5553mm
+    MISO, Signal Layers Only, 26.8666mm
+    MOSI, Signal Layers Only, 13.5139mm
+    M_RX, Signal Layers Only, 36.6466mm
+    M_TRANS, Signal Layers Only, 80.8053mm
+    M_TX, Signal Layers Only, 34.6145mm
+    NetAccel_12, Signal Layers Only, 5.149mm
+    NetAccel_7, Signal Layers Only, 8.6268mm
+    NetBQ24090_2, Signal Layers Only, 5.0556mm
+    NetBQ24090_4, Signal Layers Only, 5.1615mm
+    NetBQ24090_5, Signal Layers Only, 11.016mm
+    NetBQ24090_7, Signal Layers Only, 10.0591mm
+    NetBQ24090_8, Signal Layers Only, 7.3502mm
+    NetBQ24090_9, Signal Layers Only, 8.514mm
+    PWR_KEY, Signal Layers Only, 21.722mm
+    RESET, Signal Layers Only, 10.497mm
+    RST, Signal Layers Only, 57.8453mm
+    SCK, Signal Layers Only, 26.9591mm
+    SCL, Signal Layers Only, 43.6086mm
+    SDA, Signal Layers Only, 61.401mm
+    SIM_CLK, Signal Layers Only, 14.685mm
+    SIM_IO, Signal Layers Only, 52.8775mm
+    SIM_RST, Signal Layers Only, 24.625mm
+    TRANS, Signal Layers Only, 20.8768mm
+    V_BAT, Signal Layers Only, 216.3351mm
+    V_IN, Signal Layers Only, 28.0556mm
+    V_IO, Signal Layers Only, 165.7089mm
+    V_SIM, Signal Layers Only, 20.965mm
+    XTAL1, Signal Layers Only, 12.1807mm
+    XTAL2, Signal Layers Only, 12.3212mm
+count : 34

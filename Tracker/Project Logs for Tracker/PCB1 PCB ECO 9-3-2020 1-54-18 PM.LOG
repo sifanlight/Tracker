@@ -1,0 +1,13 @@
+Added Component: Designator=GPS_Connector(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GSM_Connector(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GPS_Connector-1
+Added Pin To Net: NetName=GND Pin=GPS_Connector-2
+Added Pin To Net: NetName=GPS_RF Pin=GPS_Connector-3
+Added Pin To Net: NetName=GND Pin=GSM_Connector-1
+Added Pin To Net: NetName=GND Pin=GSM_Connector-2
+Added Pin To Net: NetName=GSM_RF Pin=GSM_Connector-3
+Added Member To Class: ClassName=Sheet1 Member=Component GPS_Connector Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component GSM_Connector Component_1
+Added Room: Name=Sheet1

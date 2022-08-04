@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\Tracker\PCB1.PcbDoc
+Date         : 9/3/2020
+Time         : 2:00:34 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 98.94%
+    Connections, 94
+    Connections routed, 93
+    Connections remaining, 1
+count : 4

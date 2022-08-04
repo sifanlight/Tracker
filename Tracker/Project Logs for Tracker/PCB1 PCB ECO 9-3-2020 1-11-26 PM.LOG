@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=Battery  NewDesignator=Battery
+Change Component Designator: OldDesignator=p NewDesignator=BQ24090
+Change Net Name : Old Net Name=Netp_2 New Net Name=NetBQ24090_2
+Change Net Name : Old Net Name=Netp_4 New Net Name=NetBQ24090_4
+Change Net Name : Old Net Name=Netp_5 New Net Name=NetBQ24090_5
+Change Net Name : Old Net Name=Netp_7 New Net Name=NetBQ24090_7
+Change Net Name : Old Net Name=Netp_8 New Net Name=NetBQ24090_8
+Change Net Name : Old Net Name=Netp_9 New Net Name=NetBQ24090_9
+Added Member To Class: ClassName=Sheet1 Member=Component Battery Header 2
+Added Room: Name=Sheet1
